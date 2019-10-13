@@ -1,3 +1,3 @@
 [submodule "trans/speech-vad-demo"]
 	path = trans/speech-vad-demo
-	url = /home/enh/src/source/speech-vad-demo
+	url = https://github.com/tonyupup/speech-vad-demo.git
